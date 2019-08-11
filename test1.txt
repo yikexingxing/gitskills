@@ -9,4 +9,8 @@ Create master zhong de tianjia2
 
 fen zhi celv new
 
+<<<<<<< Updated upstream
 linshi new branch issue-101
+=======
+Bug fenzhi new
+>>>>>>> Stashed changes
