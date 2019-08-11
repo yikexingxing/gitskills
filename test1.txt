@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 zai master zhong de tiaojia
+=======
+Creating a new branch is quick AND simple.
+
+feature xiugai1
+>>>>>>> featurel
+Create master zhong de tianjia2
